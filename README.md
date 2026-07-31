@@ -5,3 +5,4 @@ This repository contains my daily college lab work and practice programs for Com
 ## Lab-wise Structure
 
 * [x] **Lab 1:** Basic UDP (User Datagram Protocol) programs – Server & Client
+* [x] **Lab 2:** UDP Chat Application + File Transfer
