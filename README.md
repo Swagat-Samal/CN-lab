@@ -7,3 +7,4 @@ This repository contains my daily college lab work and practice programs for Com
 * [x] **Lab 1:** Basic UDP (User Datagram Protocol) – Server & Client
 * [x] **Lab 2:** UDP Chat Application + File Transfer
 * [x] **Lab 3:** Basic TCP (Transmission Control Protocol)  – Server & Client
+* [x] **Lab Test:** [Click here to view the test question](CNL_test/CNL%20test%20question.jpg)
